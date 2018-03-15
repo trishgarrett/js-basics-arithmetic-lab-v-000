@@ -16,4 +16,4 @@ let randomNumber = Math.floor(Math.random() * 20) + 1;
 
 let randomInteger = Math.floor(randomNumber);
 
-let randomUserID = randomNumber * 50000000;
+let randomUserID = randomNumber * 500000000;
